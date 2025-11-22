@@ -21,7 +21,7 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: []()
+- Solution URL: [https://www.frontendmentor.io/solutions/flex-card-component-IXekHU8DZl](https://www.frontendmentor.io/solutions/flex-card-component-IXekHU8DZl)
 - Live Site URL: [https://codereme.github.io/stats-preview-card-component](https://codereme.github.io/stats-preview-card-component)
 
 ## Author
